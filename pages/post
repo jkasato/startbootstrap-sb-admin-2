@@ -1,0 +1,12 @@
+<li>
+	<a href="{{link}}">
+		<div>
+			<strong>{{title}}</strong>
+			<span class="pull-right text-muted">
+				<em>{{subtitle}}</em>
+			</span>
+		</div>
+		<div>{{note}}</div>
+	</a>
+</li>
+<li class="divider"></li>
