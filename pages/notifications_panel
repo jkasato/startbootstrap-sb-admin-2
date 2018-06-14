@@ -1,0 +1,10 @@
+<li>
+	<a href="#">
+		<div>
+			<i class="fa fa-{{picture}} fa-fw"></i> {{text}}
+			<span class="pull-right text-muted small">{{subtext}}</span>
+		</div>
+	</a>
+</li>
+<li class="divider"></li>
+<li>
